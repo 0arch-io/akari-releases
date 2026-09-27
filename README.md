@@ -7,11 +7,11 @@
 <p align="center">
   A calmer web browser for Mac and Windows, by <a href="https://0arch.io">0ARCH</a>.<br>
   <a href="https://0arch.io/akari">0arch.io/akari</a> ·
-  <a href="https://akari-sync.nexcore-ms.workers.dev/changelog">What's new</a>
+  <a href="https://0arch.io/akari/changelog">What's new</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/0arch-io/akari-releases/releases/download/v0.3.0/Akari-0.3.0.dmg"><b>Download for Mac</b></a>
+  <a href="https://github.com/0arch-io/akari-releases/releases/download/v0.3.1/Akari-0.3.1.dmg"><b>Download for Mac</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/0arch-io/akari-releases/releases/download/v0.3.0/Akari-Setup-0.3.0.exe"><b>Download for Windows</b></a>
 </p>
@@ -47,7 +47,7 @@ This repository holds Akari's public downloads. Akari is an early preview: free,
 
 **Mac**
 
-1. Download `Akari-0.3.0.dmg` and open it.
+1. Download `Akari-0.3.1.dmg` and open it.
 2. Drag Akari onto the Applications folder next to it.
 3. Open Akari from Applications. It's signed and notarized by Apple, so it opens without warnings.
 
@@ -57,7 +57,7 @@ This repository holds Akari's public downloads. Akari is an early preview: free,
 2. The installer isn't code-signed yet, so Windows may say it protected your PC. Click **More info**, then **Run anyway**.
 3. Akari installs for your user only, with no admin prompt, and opens when it's done.
 
-Already on Akari 0.2.0 for Mac? Download 0.3.0 once. From then on Akari keeps itself up to date.
+Already on Akari 0.2.0 for Mac? Download 0.3.1 once. From then on Akari keeps itself up to date.
 
 ## Where the preview is rough
 
