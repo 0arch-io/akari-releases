@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0arch-io/akari-releases/releases/download/v0.3.1/Akari-0.3.1.dmg"><b>Download for Mac</b></a>
+  <a href="https://github.com/0arch-io/akari-releases/releases/latest/download/Akari.dmg"><b>Download for Mac</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/0arch-io/akari-releases/releases/download/v0.3.0/Akari-Setup-0.3.0.exe"><b>Download for Windows</b></a>
+  <a href="https://github.com/0arch-io/akari-releases/releases/latest/download/Akari-Setup.exe"><b>Download for Windows</b></a>
 </p>
 
 <p align="center">
@@ -47,17 +47,17 @@ This repository holds Akari's public downloads. Akari is an early preview: free,
 
 **Mac**
 
-1. Download `Akari-0.3.1.dmg` and open it.
+1. Download `Akari.dmg` and open it.
 2. Drag Akari onto the Applications folder next to it.
 3. Open Akari from Applications. It's signed and notarized by Apple, so it opens without warnings.
 
 **Windows**
 
-1. Download `Akari-Setup-0.3.0.exe` and run it.
+1. Download `Akari-Setup.exe` and run it.
 2. The installer isn't code-signed yet, so Windows may say it protected your PC. Click **More info**, then **Run anyway**.
 3. Akari installs for your user only, with no admin prompt, and opens when it's done.
 
-Already on Akari 0.2.0 for Mac? Download 0.3.1 once. From then on Akari keeps itself up to date.
+Already on Akari 0.2.0 for Mac? Download it once more. From then on Akari keeps itself up to date.
 
 ## Where the preview is rough
 
